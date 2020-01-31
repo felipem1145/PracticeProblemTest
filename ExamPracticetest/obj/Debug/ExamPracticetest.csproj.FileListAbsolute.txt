@@ -1,0 +1,7 @@
+C:\Users\Programming12\source\repos\ExamPracticetest\ExamPracticetest\bin\Debug\ExamPracticetest.exe.config
+C:\Users\Programming12\source\repos\ExamPracticetest\ExamPracticetest\bin\Debug\ExamPracticetest.exe
+C:\Users\Programming12\source\repos\ExamPracticetest\ExamPracticetest\bin\Debug\ExamPracticetest.pdb
+C:\Users\Programming12\source\repos\ExamPracticetest\ExamPracticetest\obj\Debug\ExamPracticetest.csprojAssemblyReference.cache
+C:\Users\Programming12\source\repos\ExamPracticetest\ExamPracticetest\obj\Debug\ExamPracticetest.csproj.CoreCompileInputs.cache
+C:\Users\Programming12\source\repos\ExamPracticetest\ExamPracticetest\obj\Debug\ExamPracticetest.exe
+C:\Users\Programming12\source\repos\ExamPracticetest\ExamPracticetest\obj\Debug\ExamPracticetest.pdb
